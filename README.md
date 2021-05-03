@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JohnLyday
+- 👀 I’m interested in integrating 3D modeling, conventional photography and 360 degree photography to create 3D Films for Virtual Reality and Mixed Reality
+- 🌱 I’m currently learning C#, .Net, and Groovy, as well as Unity Game Engine, Blender, Photoshop, Adobe Premier and After Effects. Also learning Github
+- 💞️ I’m looking to collaborate on anything within my skillset. I am only interested in gaming as a vehicle for shooting films.
+- 📫 I can be reached at Email: jtlyday@outlook.com Phone: (970) 403-4623 
