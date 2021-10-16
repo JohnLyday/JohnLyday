@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @JohnLyday
 - 👀 I’m interested in integrating 3D modeling, conventional photography and 360 degree photography to create 3D Films for Virtual Reality and Mixed Reality
-- 🌱 I’m currently learning C#, .NET, and Groovy, as well as Unity Game Engine, Blender, Photoshop, Adobe Premier and After Effects. Also learning Github.
+- 🌱 I’m currently learning Blazor, F#, C#, .NET, Groovy, and Microsoft SQL. I am becoming proficient in Unity Game Engine, Blender, Photoshop and Lightroom, Adobe Substance Suite, Luminar AI, Da Vinci Resolve, Sony Vegas Pro 19, Adobe Premier and After Effects. I am also learning Github, Azure and Linux.
+- I am exploring creating custom apps for my Sony Alpha One camera, my Sony A6600 camera, my Sony ZV-E10, and my Sony Xperia 1 III smartphone, using the Sony camera SDK and Android Camera. This software will allow me to capture distance, angles, x,y,z coordinates, elevation, location and anything else that will automate my filming and creation of 3D films. I also am exploring ARkit for my iPhone, iPadPro, and M1 Mac Mini and I might develop cross platform software that will integrate Apple information with my with my Windows/ Android/Sony camera software. If anybody can point me to APIs, libraries, open source software, or even algorithms that will speed up my development process, please contact me.
+- If anybody knows APIs for Insta360 ONE X2 and the Insta360 Go 2 please contact me as well.
 - 💞️ I’m looking to collaborate on anything within my skillset. I am only interested in gaming as a vehicle for shooting films.
-- 📫 I can be reached at Email: jtlyday@outlook.com Phone: (970) 403-4623 
+- 📫 I can be reached at Email: jtlyday@outlook.com Phone: (970) 398-5511 
