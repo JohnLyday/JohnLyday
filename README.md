@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @JohnLyday
-- 👀 I’m interested in integrating 3D modeling, conventional photography and 360 degree photography to create 3D Films for Virtual Reality and Mixed Reality
-- 🌱 I’m currently learning Blazor, F#, C#, .NET, Groovy, and Microsoft SQL. I am becoming proficient in Unity Game Engine, Blender, Photoshop and Lightroom, Adobe Substance Suite, Luminar AI, Da Vinci Resolve, Sony Vegas Pro 19, Adobe Premier and After Effects. I am also learning Github, Azure and Linux.
-- I am exploring creating custom apps for my Sony Alpha One camera, my Sony A6600 camera, my Sony ZV-E10, and my Sony Xperia 1 III smartphone, using the Sony camera SDK and Android Camera. This software will allow me to capture distance, angles, x,y,z coordinates, elevation, location and anything else that will automate my filming and creation of 3D films. I also am exploring ARkit for my iPhone, iPadPro, and M1 Mac Mini and I might develop cross platform software that will integrate Apple information with my with my Windows/ Android/Sony camera software. If anybody can point me to APIs, libraries, open source software, or even algorithms that will speed up my development process, please contact me.
-- If anybody knows APIs for Insta360 ONE X2 and the Insta360 Go 2 please contact me as well.
-- 💞️ I’m looking to collaborate on anything within my skillset. I am only interested in gaming as a vehicle for shooting films.
+Hi, I’m @JohnLyday
+
+Groovy Systems LLC is a VR production company that specializes in creating immersive 360-degree video content for Windows, MacOS and Linux platforms. The future of our industry looks promising with new opportunities to explore virtual reality through various devices like Oculus or Microsoft HoloLens, GearVR headsets, and Mad Gaze Smart glasses. We'll also be making use of YouTube's new Virtual Reality initiative by uploading our films directly onto their site so you can watch them on any device!
+
+I am a filmmaker, computer professional, content producer and photographer who is currently researching, purchasing and developing virtual reality film and broadcast equipment. I have a degree in English Literature and a strong background in computers. I am an avid explorer of ideas in all forms; be it in the realms of technology or in the world at large.
+
+Learning is my forte and I can’t get enough. From Unity Game Engine, to Blender, Photoshop, Lightroom, Adobe Substance, Microsoft SQL and Azure; there's always something new that interests me! My latest endeavor has been the F# and Blazor programming languages as well as Groovy for JavaScript development - let alone video editing tools such as Da Vinci Resolve and Sony Vegas Pro 19 & 20.
+
+I am exploring creating custom apps for my Sony Alpha One camera, my Sony A6600 camera and the newest member of our family: The Xperia 1 III smartphone. Using this software will allow me to capture distance x, y, z coordinates from an angle as well as anything else that might be needed when filming 3D films! In future plans I hope integrate these apps with ARkit for iPhones/Mac Mini; all platforms combined offer a limitless creative potential!
+
 - 📫 I can be reached at Email: jtlyday@outlook.com Phone: (970) 398-5511 
